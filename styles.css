@@ -10,6 +10,7 @@
     background-color: #0F172B;
     position: sticky;
     top: 0;
+    z-index: 1000;
 
 }
 h2{
@@ -169,6 +170,7 @@ display: flex;
 background-color: #0F172B; 
 height: 450px; 
 padding: 30px 50px;
+width: 100%;
 }    
 input[type="text"],input[type="email"],input[type= "datetime-local"],select{
 height: 50px;
@@ -179,7 +181,7 @@ margin-right: 20px;
     color: white;
     font-family:"Heebo ", sans-serif;
     background-color: #FEA116;
-    width: 1000px; 
+    width: 535px; 
     padding: 20px; 
 }
 .J{
