@@ -674,6 +674,11 @@ text-align: center;
 .H {
 padding: 15px;
 }
+.el6 img{
+    max-width: 100%; 
+    height: auto;
+    }
+
 input[type="text"], input[type="email"], input[type="datetime-local"], select {
 width: 100%;
 margin-bottom: 10px;
